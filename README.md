@@ -1,1 +1,1 @@
-revolutionizing liver care: predicting liver cirrhosis using advanced machine learning techniques
+Revolutionizing Liver Care: Predicting Liver Cirrhosis Using Advanced Machine Learning Techniques
